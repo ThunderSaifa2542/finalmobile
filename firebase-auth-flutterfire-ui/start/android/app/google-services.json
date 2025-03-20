@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "562580978342",
+    "project_id": "final-mobile-login-project",
+    "storage_bucket": "final-mobile-login-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562580978342:android:4badbc42e6d57e5f2a9267",
+        "android_client_info": {
+          "package_name": "com.example.start"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562580978342-9l0p46phe8hqbuddg744d1ipnhe3b3q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4SXhcnMyY4Lbt0RLsYSHBA9UoBK00fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562580978342-9l0p46phe8hqbuddg744d1ipnhe3b3q8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562580978342-5itamqcgdvhhsd8podoonnjhq1cdspib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.start"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
